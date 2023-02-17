@@ -5,8 +5,7 @@
 
 ### <div align="center">I'm Saliha, an IT graduate and a wannabe Security specialist with interest in DevOps.👨‍💻 Interested in everything out of my comfort zone🚀</div>  
   
-
-- 🔭 I’m currently working on [Interesting project]()  
+<!--  🔭 I’m currently working on [Interesting project]()  -->
   
 
 - 🌱 I’m currently learning Kali linux and Kubernetes  
@@ -15,7 +14,7 @@
 - ❓ Ask me about anything related to the new trends and threats in security.  
   
 
-- ⚡ Fun fact: Doing my bachelor thesis on theme " "  
+- ⚡ Fun fact: Plan to do my bachelor thesis on Security, possible social engineering 
   
 
 <br/>  
