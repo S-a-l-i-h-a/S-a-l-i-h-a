@@ -8,13 +8,13 @@
 <!--  🔭 I’m currently working on [Interesting project]()  -->
   
 
-- 🌱 I’m currently learning Kali linux and Kubernetes  
+- 🌱 I’m currently learning Terraform (Infastructure as a Code)
   
 
 - ❓ Ask me about anything related to the new trends and threats in security.  
   
 
-- ⚡ Fun fact: Plan to do my bachelor thesis on Security, possible social engineering 
+- ⚡ Fun fact: Doing my baherol thesis on theme "Bias in Wikipedia"
   
 
 <br/>  
